@@ -6,7 +6,6 @@ list_c = []
 for i in range(1, a):
     if a % i == 0:
         list_a.append(i)
-        print(list_a)
 for i in range(1,b):
     if b % i == 0:
         list_b.append(i)

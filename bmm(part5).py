@@ -13,5 +13,4 @@ for i in list_b:
     if i in list_a:
         list_c.append(i)
         list_c.sort()
-        x = max(list_c)
-        print(x)
+print(list_c[-1])
