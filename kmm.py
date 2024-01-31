@@ -14,3 +14,6 @@ for i in list_a:
     if i in list_b:
         list_c.append(i)
         list_c.sort()
+print(list_c[-2])
+
+    
