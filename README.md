@@ -4,7 +4,7 @@
 
 In this code, we have defined a list of words, and then we choose one randomly for the user to guess. If the number of guesses reached a number, we print an angry emoji for him, and if the user guesses less than 6, the target word is displayed. Let him guess, we will print it for him. You win
 
-![Alt text](img\hangman.jpg)
+![Alt text](img/hangman.jpg)
 ----
 ## Part(2):Non-Repeating Random Numbers
 
@@ -31,7 +31,7 @@ gcd (x, y)
 
 The least common multiple (LCM) is the smallest number that two or more numbers can divide into evenly
 
-![Alt text](img\least_common_multiple.svg)
+![Alt text](img/least_common_multiple.svg)
  ----
  ## Part(7):Count the Words of a Sentence
 
